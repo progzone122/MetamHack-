@@ -1,0 +1,493 @@
+[
+	{
+		"title": "prehistory1",
+		"tags": "",
+		"body": "Why...  [[Answer:prehistory2|prehistory2]]",
+		"position": {
+			"x": -71,
+			"y": 239
+		},
+		"colorID": 0
+	},
+	{
+		"title": "prehistory3",
+		"tags": "",
+		"body": "Why did it end this way? [[Answer:prehistory4|prehistory4]]",
+		"position": {
+			"x": 504,
+			"y": 432
+		},
+		"colorID": 2
+	},
+	{
+		"title": "prehistory2",
+		"tags": "",
+		"body": "Why did I even bother with this ...? [[Answer:prehistory3|prehistory3]]",
+		"position": {
+			"x": 240,
+			"y": 17
+		},
+		"colorID": 1
+	},
+	{
+		"title": "prehistory4",
+		"tags": "",
+		"body": "Pain... [[Answer:prehistory5|prehistory5]]",
+		"position": {
+			"x": 712,
+			"y": 98
+		},
+		"colorID": 0
+	},
+	{
+		"title": "prehistory5",
+		"tags": "",
+		"body": "No, I don't feel it anymore ... [[Answer:prehistory6|prehistory6]]",
+		"position": {
+			"x": 919,
+			"y": 406
+		},
+		"colorID": 0
+	},
+	{
+		"title": "prehistory6",
+		"tags": "",
+		"body": "It all started because of one message in my mail ... [[Answer:prehistory_end|prehistory_end]]",
+		"position": {
+			"x": 1260,
+			"y": 407
+		},
+		"colorID": 0
+	},
+	{
+		"title": "prehistory_end",
+		"tags": "",
+		"body": "Prehistory end",
+		"position": {
+			"x": 1611,
+			"y": 407
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email0_1",
+		"tags": "",
+		"body": "Hi, I've heard a lot about you on the hacker forum and would like to offer you a task, for a generous reward, of course.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email0_2",
+		"tags": "",
+		"body": "There is one large company \"Metam\" and they have their new secret development on the main server because of which they can seize power over ordinary Internet users.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email0_3",
+		"tags": "",
+		"body": "So, the essence of the task: I do not need any files from their server, even more - I only ask you to slightly change the config in their new development so that an unexpected bug appears and they would not have time to release the program and we had some time, to get admin access to their backup servers. I only ask you, do not delete anything from the server yourself, because of this they will be able to quickly track you down. All useful software and, just in case, a manual will be sent to you by my colleague after a while. Good luck!",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email0_4",
+		"tags": "",
+		"body": "Metam master server IP - 250.154.131.22",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email1_1",
+		"tags": "",
+		"body": "Hi, all useful software is on this FTP server in the home/www directory",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email1_2",
+		"tags": "",
+		"body": "Note: To download files from FTP server use command in terminal wget [ip]/[directory]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email1_3",
+		"tags": "",
+		"body": "Server IP - 126.119.65.92",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_1",
+		"tags": "",
+		"body": "I see that you have downloaded all the necessary software from the server, now you are officially on our team.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_2",
+		"tags": "",
+		"body": "Now I can introduce myself, I am Kirin. Of course it's not my real name, it's a nickname to make it harder for Metam to figure out me.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_3",
+		"tags": "",
+		"body": "So, I found out that the main server has an improved firewall, which requires a 50-character password to bypass it, so brute-force is not an option.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_4",
+		"tags": "",
+		"body": "But one of their non-main web servers has minimal protection, hack it and view the files, you may find something useful.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_5",
+		"tags": "",
+		"body": "Contact my gmail userbot to get documentation for the downloaded utilities. The mechanism for hacking servers is almost always the same: We scan the server for ports, break them and use the porthack utility to connect. It's simple, right?",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_7",
+		"tags": "",
+		"body": "IP address of the first Metam web server: 99.179.21.125",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email2_6",
+		"tags": "",
+		"body": "Email address: kirinbot1@userbot.com",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+
+	{
+		"title": "email2_8",
+		"tags": "",
+		"body": "Write a message via gmail: gmail [email]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_1",
+		"tags": "",
+		"body": "Re: Documentation on using the utilities.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_2",
+		"tags": "",
+		"body": "nmap [ip] – Scan the server for ports.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_3",
+		"tags": "",
+		"body": "porthack – Connecting to the server using hacked ports.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_4",
+		"tags": "",
+		"body": "analyze – Brute-force bypass password firewall.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_5",
+		"tags": "",
+		"body": "solve [пароль] – Bypassing the firewall using a password.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_6",
+		"tags": "",
+		"body": "smc [port] – Hacking the database.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_7",
+		"tags": "",
+		"body": "sshcrack [port] – Port hacking ssh",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email3_8",
+		"tags": "",
+		"body": "Copyright (c) Kirin and CoolHacker2000.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_1",
+		"tags": "",
+		"body": "Hi, how is the work progressing? If something doesn't work out, don't worry - try again.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_2",
+		"tags": "",
+		"body": "And by the way, keep the documentation, it's up to you to use it or not.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_3",
+		"tags": "",
+		"body": "Documentation for Linux #1:",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_4",
+		"tags": "",
+		"body": "ls – List directories",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_5",
+		"tags": "",
+		"body": "cd [catalog] – Go to catalog",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_6",
+		"tags": "",
+		"body": "cat [file] – View file content",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_7",
+		"tags": "",
+		"body": "scp [file] – Upload a file from the server to your home directory",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email4_8",
+		"tags": "",
+		"body": "Find something interesting and upload it to your home directory. Good luck!",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email5_1",
+		"tags": "",
+		"body": "N2C3h4k2Ms? Hmm ... Looks like this is what you need.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email5_2",
+		"tags": "",
+		"body": "Now try to hack the main server, but before that, still bypass firewall.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "email5_3",
+		"tags": "",
+		"body": "If you forgot something - all the documentation is in the mail.",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end1",
+		"tags": "",
+		"body": "What? [[Answer:end2|end2]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end2",
+		"tags": "",
+		"body": "What happened? [[Answer:end3|end3]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end3",
+		"tags": "",
+		"body": "Where did all the electricity go? [[Answer:end4|end4]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end4",
+		"tags": "",
+		"body": "Stop! And who are you? [[Answer:end5|end5]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end5",
+		"tags": "",
+		"body": "*Shot* [[Answer:end6|end6]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end6",
+		"tags": "",
+		"body": ".. [[Answer:end7|end7]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end7",
+		"tags": "",
+		"body": "*Unknown voice* Damn, I told you to be careful, take the hard drive and dump [[Answer:end8|end8]]",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end8",
+		"tags": "",
+		"body": "asdasd",
+		"position": {
+			"x": -69,
+			"y": 741
+		},
+		"colorID": 0
+	}
+]
